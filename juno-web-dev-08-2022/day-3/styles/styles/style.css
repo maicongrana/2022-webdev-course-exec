@@ -1,0 +1,19 @@
+/* header {
+    background-color: #9000ff;
+    color: white;
+    height: 300px;
+}
+
+header {
+    background-image: url(./assets/whistler.jpg);
+    background-repeat: no-repeat;
+    height: 1200px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+} */
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 0.3449579660965949) 41%, rgba(0, 212, 255, 1) 100%);
+}

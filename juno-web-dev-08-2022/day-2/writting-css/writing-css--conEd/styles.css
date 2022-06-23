@@ -1,0 +1,19 @@
+h1 {
+    color: slateblue;
+}
+
+.groceries li {
+    color: red;
+}
+
+.sports li {
+    color: blanchedalmond;
+}
+
+.groceries li a {
+    color: yellowgreen;
+}
+
+.sports li a {
+    color: yellowgreen;
+}
